@@ -23,7 +23,7 @@ declare module PIXI.projection {
         NONE = 0,
         BEFORE_PROJ = 4,
         PROJ = 5,
-        ALL = 9,
+        ALL = 9
     }
 }
 declare module PIXI.projection {
@@ -242,7 +242,7 @@ declare module PIXI.projection {
         AXIS_X = 2,
         AXIS_Y = 3,
         POINT = 4,
-        AXIS_XR = 5,
+        AXIS_XR = 5
     }
     class Matrix2d {
         static readonly IDENTITY: Matrix2d;
